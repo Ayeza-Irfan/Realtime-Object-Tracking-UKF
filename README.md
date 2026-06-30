@@ -35,8 +35,7 @@ A real-time object tracking system that combines **color-based detection (OpenCV
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Ayeza-Irfan/Realtime-Object-Tracking-UKF
-.git
+   git clone https://github.com/Ayeza-Irfan/Realtime-Object-Tracking-UKF.git
   
    ```
 
